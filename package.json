@@ -12,7 +12,9 @@
     "dependencies": {
         "ejs": "^3.0.1",
         "express": "^4.17.1",
-        "nodemon": "^2.0.2"
+        "nodemon": "^2.0.2",
+        "trim-newlines": ">=3.0.1",
+        "glob-parent": ">=5.1.2"
     },
     "devDependencies": {
         "gulp": "^4.0.2",
